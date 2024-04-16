@@ -1,0 +1,16 @@
+{
+  "name": "try-to-made-gussing-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "Gussing-game"
+  },
+  "author": "Ahtisham-Ali",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^9.2.18"
+  }
+}
